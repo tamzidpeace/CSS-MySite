@@ -12,4 +12,27 @@ h1 {
     background-color: #E0EBE7;
 }
 
+.top-cloud {
+    position: relative;
+    left: 200px;
+    top: 25px;
+}
+.bottom-cloud {
+    position : relative;
+    bottom: 225px;
+}
+.arafat {
+    position: absolute;
+    display: block;
+    left: 823px;
 
+}
+.programmer {
+    position: relative;
+    display: block;
+    top: 17px;
+}
+.mountain {
+    position: relative;
+
+}
