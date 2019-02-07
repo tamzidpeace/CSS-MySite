@@ -10,7 +10,7 @@
 <div class="top-container">
     <img class="top-cloud" src="images/cloude.jpg" alt="cloud-img">
     <h1 class="arafat">I'm Arafat</h1>
-    <p class="programmer">a programmer.</p>
+    <p  class="programmer">a programmer.</p>
     <img class="bottom-cloud" src="images/cloude.jpg" alt="cloud-img">
     <img class="mountain" src="images/mountain.jpg" alt="mountain-img">
 </div>

@@ -10,19 +10,21 @@ h1 {
 }
 .top-container {
     background-color: #E0EBE7;
+		padding-top: 100px;
 }
 
 .top-cloud {
     position: relative;
-    left: 200px;
-    top: 25px;
+    left: 215px;
 }
 .bottom-cloud {
     position : relative;
-    bottom: 225px;
+    bottom: 245px;
+		left: 210px;
 }
+/*
 .arafat {
-    position: absolute;
+    position: static;
     display: block;
     left: 823px;
 
@@ -32,7 +34,8 @@ h1 {
     display: block;
     top: 17px;
 }
+*/
 .mountain {
-    position: relative;
+
 
 }
